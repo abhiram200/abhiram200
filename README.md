@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @VIRUS
 - 👀 I’m interested in ...LEARNING PROGRAMMING AND CODING
 - 💞️ I’m looking forward in doing collaborated works 
 - 📫 How to reach me ...EMAIL ME AT abhiramrs24@gmail.com 
